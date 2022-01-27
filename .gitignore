@@ -1,2 +1,2 @@
 resources/*
-.hugo_build*
+*hugo_build*
