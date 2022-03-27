@@ -1,0 +1,64 @@
+# section information
+section:
+  name: 技能
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Yocto-Linux
+  logo: /images/sections/skills/yocto.png
+  summary: "精通 Yocto-Linux 项目开发，已基于 Yocto 完成十余种嵌入式 Linux 设备的开发与维护。同时目前正在开发个人项目“颠勺”，简化 Yocto 项目使用难度"
+  url: "https://www.yoctoproject.org/"
+
+- name: RT-Thread
+  logo: /images/sections/skills/rt-thread.png
+  summary: "精通 RT-Thread 实时操作系统开发，使用 RT-thread 完成 3 款物联网终端开发"
+  url: "https://www.rt-thread.org/"
+
+- name: C 语言
+  logo: /images/sections/skills/c++.png
+  summary: "超过 5 年的 C 语言开发使用经验，主要应用于嵌入式终端开发"
+
+- name: Golang
+  logo: /images/sections/skills/go.png
+  summary: "最近 3 年一直使用 Golang 开发管理平台后端部分，熟悉 Gin、wire、casbin 等相关框架"
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "使用 Python + Django + Celery 开发 “颠勺”，经常使用 Python 开发脚本软件 "
+
+- name: Vue
+  logo: /images/sections/skills/vue.png
+  summary: "使用 Vue 开发管理平台前端界面，可以实现前端界面所需基本功能"
+  url: "https://prometheus.io/"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "熟练使用 Docker 以及 Docker-compose， 目前已将所有开发的平台类项目容器化"
+  url: "https://www.docker.com/"
+
+- name: LoRa
+  logo: /images/sections/skills/lora.jpg
+  summary: "基于 Chirpstack 开源项目完成 LoRa 网关终端开发，熟练掌握 LoRa 及 LoRaWan 相关知识和开发方法"
+  url: "https://git-scm.com/"
+
+- name: 卫星通信
+  logo: /images/sections/skills/satellite.png
+  summary: "过去三年中，始终从事卫星通信设备与模组 (天通、北斗、自有卫星) 的研发，不仅精通应用终端开发，同时负责过卫星通信模组研发，带领团队完成基带 FPGA 及射频的研发"
+  url: "https://git-scm.com/"
+
+- name: IOT
+  logo: /images/sections/skills/iot.jpg
+  summary: "精通物联网终端设备以及整体系统的设计与开发"
+  url: "https://git-scm.com/"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "熟练使用 Git 对软件项目进行开发管理"
+  url: "https://git-scm.com/"

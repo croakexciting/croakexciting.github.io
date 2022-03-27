@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: 颠勺
+  logo: /images/sections/projects/dianshao.png
+  role: 管理者、开发者
+  timeline: "2021.11 - 至今"
+  #repo: https://github.com/dianshao-embedded/dianshao # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://dianshao-embedded.github.io/dianshao-docs/
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: 一个嵌入式 Linux 项目构建管理工具 -- Bitbake UI 扩展功能
+  tags: ["hobby", "yocto", "embedded-linux"]
+
+- name: 上菜
+  role: 管理者、开发者
+  timeline: "2022.3 - 至今"
+  #repo: https://github.com/dianshao-embedded/dishes-admin.git
+  url: "https://dianshao-embedded.github.io/dishes-docs/"
+  summary: 上菜是一个物联网终端 OTA 及远程连接管理平台，其提供固件自动更新及远程控制台连接功能，帮助嵌入式开发人员开发、管理、维护设备
+  tags: ["hobby", "ota"]
+
+- name: lorawan 网关终端
+  role: 管理者、开发者
+  timeline: "2022.3 - 至今"
+  repo: "https://github.com/dianshao-embedded/lora-gateway-imx6ull.git"
+  summary: 一个 lorawan 网关终端项目，作为颠勺开发工具的一个例程，帮助用户掌握颠勺开发工具
+  tags: ["hobby","yocto", "lorawan", "iot"]

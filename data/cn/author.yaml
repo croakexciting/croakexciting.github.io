@@ -1,0 +1,18 @@
+# some information about you
+name: "李心宇"
+nickname: "李心宇"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "我是"
+image: "images/author/croak.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "croakexciting@gmail.com"
+  phone: "+8613073676596"
+  github: https://github.com/dianshao-embedded
+
+# some summary about what you do
+summary:
+  - 我是一名软件开发人员
+  - 我精通 RTOS、嵌入式Linux、Golang 开发
+  - 我精通 Yocto Linux 项目开发
+  - 我正在开发一套嵌入式 Linux DevOps

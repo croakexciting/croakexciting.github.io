@@ -1,0 +1,24 @@
+# section information
+section:
+  name: 教育经历
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: 电力电子-硕士
+  icon: fa-microscope
+  timeframe: 2014-2017
+  institution:
+    name: 浙江大学
+    url: "#"
+- name: 电气工程-本科
+  icon: fa-graduation-cap
+  timeframe: 2010-2014
+  institution:
+    name: 西安交通大学
+    url: "#"

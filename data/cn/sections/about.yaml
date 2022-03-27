@@ -1,0 +1,42 @@
+# section information
+section:
+  name: 关于
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: 软件工程师
+# your company information
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: '我是一名全栈软件开发工程师，主要工作经验为卫星物联网设备开发、卫星通信模组开发、物联网设备管理平台开发。
+          
+          主要技能为嵌入式 Yocto-Linux 开发、RTOS 开发、Golang 开发、Vue 开发。同时熟悉无线通信相关知识，熟悉基带算法设计，了解射频开发基础知识'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "croakexciting@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/dianshao-embedded"
+
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
