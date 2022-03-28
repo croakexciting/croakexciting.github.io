@@ -8,7 +8,7 @@ image: "images/author/croak.jpg"
 contactInfo:
   email: "croakexciting@gmail.com"
   phone: "+8613073676596"
-  github: https://github.com/dianshao-embedded
+  github: dianshao-embedded
 
 # some summary about what you do
 summary:
