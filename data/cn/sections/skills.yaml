@@ -46,17 +46,14 @@ skills:
 - name: LoRa
   logo: /images/sections/skills/lora.jpg
   summary: "基于 Chirpstack 开源项目完成 LoRa 网关终端开发，熟练掌握 LoRa 及 LoRaWan 相关知识和开发方法"
-  url: "https://git-scm.com/"
 
 - name: 卫星通信
   logo: /images/sections/skills/satellite.png
   summary: "过去三年中，始终从事卫星通信设备与模组 (天通、北斗、自有卫星) 的研发，不仅精通应用终端开发，同时负责过卫星通信模组研发，带领团队完成基带 FPGA 及射频的研发"
-  url: "https://git-scm.com/"
 
 - name: IOT
   logo: /images/sections/skills/iot.jpg
   summary: "精通物联网终端设备以及整体系统的设计与开发"
-  url: "https://git-scm.com/"
 
 - name: Git
   logo: /images/sections/skills/git.png
