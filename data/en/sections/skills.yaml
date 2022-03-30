@@ -21,7 +21,7 @@ skills:
   summary: "Experienced in using rt-thread rtos"
   url: "https://www.rt-thread.org/"
 
-- name: C
+- name: C/C++
   logo: /images/sections/skills/c++.png
   summary: "Using as the main language for professional development, mainly used for rtos project development"
 

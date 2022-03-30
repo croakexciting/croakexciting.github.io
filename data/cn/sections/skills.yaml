@@ -21,7 +21,7 @@ skills:
   summary: "精通 RT-Thread 实时操作系统开发，使用 RT-thread 完成 3 款物联网终端开发"
   url: "https://www.rt-thread.org/"
 
-- name: C 语言
+- name: C/C++
   logo: /images/sections/skills/c++.png
   summary: "超过 5 年的 C 语言开发使用经验，主要应用于嵌入式终端开发"
 
